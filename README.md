@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fresh Graduate**
 
-- 🌱 I’m currently learning **.Net Course**
+- 🌱 I’m currently learning **.Net, SQL Database**
 
 - 👯 I’m looking to collaborate on **Developer, Trainee, Analyst**
 
