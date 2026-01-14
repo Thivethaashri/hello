@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thivethaashri" alt="thivethaashri" /></a> </p>
 
-- 🔭 I’m currently working on **Fresh Graduate**
+- 🔭 I’m a **Fresh Graduate**
 
 - 🌱 I’m currently learning **.Net, SQL Database**
 
